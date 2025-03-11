@@ -1,0 +1,48 @@
+<！doctype html>
+<html>
+<head>
+<title>❤ 劳里亚的Love ❤</title>
+<style>
+正文{
+背景：url('https://images.unsplash.com/photo-1559563362-c7ba6410e267')固定；
+背景尺寸：封面；
+font-family：'画笔脚本MT'，草体；
+颜色：#FF1493；
+}
+.container{
+背景：rgba(255，255，255，0.9)；
+填料：20px；
+边界半径：15px；
+最大宽度：600px；
+页边距：50px自动；
+}
+H1{
+文本阴影：2px2px4px粉红色；
+}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>🦋 致我的法国玫瑰Lauria 🥀</h1>
+<img src="https://images.unsplash.com/photo-1510525009512-ad7fc13eefab"
+style="width:100%；border-radius:10px">
+<p>🇨🇳 广东→ 🇫🇷 比利时</p>
+<p id="peong">我们的爱跨越经纬度...</p>
+<button onclick="showLove()">点击收获惊喜</button>
+</div>
+
+<script>
+Const诗歌=[
+"布鲁塞尔的月光，照在广东的珠江",
+“我是埃菲尔铁塔的唯一代表”，
+"你是我永不凋谢的玫瑰",
+"中国到比利时的直线距离是 8,763 公里，但我们的心是零距离"
+];
+        
+函数showLove(){
+Const random Poem=诗歌[Math.floor(Math.random()*poins.length)]；
+document.getElementById('peith').innerHTML='💌 ${randomPoeem}'；
+}
+</script>
+</body>
+</html>
