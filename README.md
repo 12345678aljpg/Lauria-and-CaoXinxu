@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- 预加载关键资源 -->
+    <!-- 预加载关键资源 -1->
     <link rel="preload" href="https://cdn.jsdelivr.net/gh/your-repo/rose.jpg" as="image">
     <title>❤ Lauria & 你的名字 ❤</title>
     <style>
